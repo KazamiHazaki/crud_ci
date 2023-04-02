@@ -1,4 +1,4 @@
-#Crud Simple Application Using CodeIgniter 3
+# Crud Simple Application Using CodeIgniter 3
 
 Refrence for configuration
 
